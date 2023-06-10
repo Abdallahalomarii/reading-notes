@@ -1,5 +1,5 @@
 # Reading Notes
-  **i will put assigments here and doing some stuff in order to organize my work and to some important things.**
+  **i will put assigments here and doing some stuff in order to organize my work and to do some important things.**
 # Courses : 
 - ## Code 102 - Intro to Software Development
 - ## Code 201 - Foundations of Software Development
