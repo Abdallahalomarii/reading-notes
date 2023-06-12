@@ -3,4 +3,4 @@
 # Courses : 
 - ## **Code 401 - Advanced Software Development**: 
 
--[database and sql](sqlpractice.md)
+- [database and sql](sqlpractice.md)
