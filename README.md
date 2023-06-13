@@ -4,4 +4,6 @@
 - ## **Code 401 - Advanced Software Development** Pre Work: 
 
 - [database and sql](sqlpractice.md)
-- [Class02-Reading](Class02-read.md)
+
+## Things I want to know more about
+- [Unit Testing and Readme](Class02-read.md)
