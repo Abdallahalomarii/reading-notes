@@ -87,6 +87,9 @@
     
     - You then continue asking that question until you've drawn all possible conclusions from it.
        
+- ## things i want to lnow more about 
+    - solving high complxity problems without any conflict and stuck 
+    - and the mind that makes me keep in my heart that my every hour worth more than i think. 
 
 
 
