@@ -13,6 +13,10 @@
 
 - [Practice in terminal](./Practice-in-terminal.md)
 
+### Engineer Reading
+
+- [Engineer Reading](./Engineering%20Readings.md)
+
 ### Unit testing
 
 - [Unit Testing and Readme](Class02-read.md)
