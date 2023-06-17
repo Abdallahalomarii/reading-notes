@@ -32,3 +32,5 @@ but when i think about my work or the situation that im in i recognize that i ca
 - The results highlight the importance of expanding my knowledge and understanding of bias, as well as developing the courage to address it. It's encouraging to see that i already value dissenting opinions and seek feedback from others. This suggests an openness to diverse perspectives.
 
 - Moving forward, it would be valuable to prioritize learning about the workings of bias in the brain and how it affects decision-making. Additionally, developing effective courage will help me in addressing bias and creating a more inclusive environment. Remember, these insights provide a starting point for continued growth and improvement in addressing bias.
+
+## things i want to know more about 
