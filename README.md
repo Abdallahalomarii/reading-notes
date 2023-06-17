@@ -3,7 +3,7 @@
 # Courses : 
 - ## **Code 401 - Advanced Software Development** Pre Work:
 
-## Things I want to know more about
+## Tables of contets : 
 
 ### SQL And DataBase 
 
@@ -24,3 +24,5 @@
 ### Unit testing
 
 - [Unit Testing and Readme](Class02-read.md)
+
+## Things I want to know more about
