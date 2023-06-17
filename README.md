@@ -17,6 +17,10 @@
 
 - [Engineer Reading](./Engineering%20Readings.md)
 
+### Growth mindset
+
+- [Growth mindset](./Growthmindset.md)
+
 ### Unit testing
 
 - [Unit Testing and Readme](Class02-read.md)
