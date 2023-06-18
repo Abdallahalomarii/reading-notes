@@ -5,6 +5,11 @@
 
 ## Tables of contets : 
 
+- ### Class Reading : 
+    - [Class read 02 ](./Class02-read.md)
+    - [Class read 03](./Class03-read.md)
+
+
 ### SQL And DataBase 
 
 - [database and sql](sqlpractice.md)
