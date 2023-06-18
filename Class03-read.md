@@ -1,5 +1,10 @@
 # Class 03 Reading notes 
 
+- ## Why This Topic Matters ? 
+    
+    - the ability to write text to a file is fundamental in many aspects of software development, including data persistence, data sharing, logging, auditing, data export, and configuration management. Understanding the 
+      different approaches and techniques for writing text to files in a .NET application is essential for building robust, scalable, and versatile applications.
+
 - ## I/O stream
 
     - File and directory operations in the `System.IO` namespace enable creating, copying, and deleting files, as well as manipulating directories.
