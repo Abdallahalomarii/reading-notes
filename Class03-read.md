@@ -1,5 +1,10 @@
 # Class 03 Reading notes 
 
+- ## Why This Topic Matters ? 
+    
+    - the ability to write text to a file is fundamental in many aspects of software development, including data persistence, data sharing, logging, auditing, data export, and configuration management. Understanding the 
+      different approaches and techniques for writing text to files in a .NET application is essential for building robust, scalable, and versatile applications.
+
 - ## I/O stream
 
     - File and directory operations in the `System.IO` namespace enable creating, copying, and deleting files, as well as manipulating directories.
@@ -34,7 +39,7 @@
 
 - ## things i want to know more about 
 
-    - how to read and write inside any file easly and fast 
-    - how to edit the data inside the file, how to append, adding.
-    - know more about files and directoreis, the Asynchronous I/O operations also 
-    - Compression how to deal with extracting files and find data and deal with it if it is avilable. 
+   -  how to read and write inside any file easily and fast
+   -  how to edit the data inside the file, how to append, adding.
+   -  know more about files and directories, the Asynchronous I/O operations also
+   - Compression how to deal with extracting files and find data and deal with it if it is available.
