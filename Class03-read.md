@@ -34,7 +34,7 @@
 
 - ## things i want to know more about 
 
-    - how to read and write inside any file easly and fast 
-    - how to edit the data inside the file, how to append, adding.
-    - know more about files and directoreis, the Asynchronous I/O operations also 
-    - Compression how to deal with extracting files and find data and deal with it if it is avilable. 
+   -  how to read and write inside any file easily and fast
+   -  how to edit the data inside the file, how to append, adding.
+   -  know more about files and directories, the Asynchronous I/O operations also
+   - Compression how to deal with extracting files and find data and deal with it if it is available.
