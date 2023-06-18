@@ -14,6 +14,11 @@
 
 - [database and sql](sqlpractice.md)
 
+### Data Structures and Algorithms
+ 
+- [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md)
+
+
 ### practice in terminal
 
 - [Practice in terminal](./Practice-in-terminal.md)
