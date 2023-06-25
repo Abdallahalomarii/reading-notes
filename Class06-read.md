@@ -5,10 +5,11 @@
 - ## Abstract: 
 In C#, the abstract keyword is used to create classes or class members that are incomplete and must be implemented in a derived class. Abstract classes cannot be instantiated and provide a common definition for derived classes to share, while abstract methods have no implementation and must be implemented by derived classes.
 
-- ## 
-Polymorphism: Polymorphism is the ability of an object to take on different forms or behaviors. In C#, polymorphism is achieved through method overriding and method overloading. Method overriding allows a derived class to provide its own implementation of a method defined in the base class. Method overloading allows multiple methods with the same name but different parameters to coexist in the same class.
+- ## Polymorphism:
+  Polymorphism is the ability of an object to take on different forms or behaviors. In C#, polymorphism is achieved through method overriding and method overloading. Method overriding allows a derived class to provide its own implementation of a method defined in the base class. Method overloading allows multiple methods with the same name but different parameters to coexist in the same class.
 
-- ## Encapsulation: is a fundamental concept in object-oriented programming that involves bundling data and methods into a single unit called a class. It allows the data to be hidden and accessed only through the defined methods, providing a protective barrier around the internal state of an object. This promotes modularity, code organization, and information hiding, ultimately leading to more robust and maintainable software systems.
+- ## Encapsulation:
+   is a fundamental concept in object-oriented programming that involves bundling data and methods into a single unit called a class. It allows the data to be hidden and accessed only through the defined methods, providing a protective barrier around the internal state of an object. This promotes modularity, code organization, and information hiding, ultimately leading to more robust and maintainable software systems.
 
 ---
 - ## Things I want to know more about :
