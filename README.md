@@ -10,6 +10,7 @@
     - [Class read 03](./Class03-read.md)
     - [Class Read 04](./Class04-read.md)
     - [Class Read 05](./Class05-read.md)
+    - [Class Read 06](./Class06-read.md)
 
 
 ### SQL And DataBase 
