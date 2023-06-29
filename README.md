@@ -6,7 +6,8 @@
 ## Tables of contets : 
 
 - ### Class Reading : 
-    - [Class read 02 ](./Class-Read/Class02-read.md)
+    - [Class read 01](./Class-Read/Class01-read.md)
+    - [Class read 02](./Class-Read/Class02-read.md)
     - [Class read 03](./Class-Read/Class03-read.md)
     - [Class Read 04](./Class-Read/Class04-read.md)
     - [Class Read 05](./Class-Read/Class05-read.md)
