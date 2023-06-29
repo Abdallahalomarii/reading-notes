@@ -6,36 +6,36 @@
 ## Tables of contets : 
 
 - ### Class Reading : 
-    - [Class read 02 ](./Class02-read.md)
-    - [Class read 03](./Class03-read.md)
-    - [Class Read 04](./Class04-read.md)
-    - [Class Read 05](./Class05-read.md)
-    - [Class Read 06](./Class06-read.md)
+    - [Class read 02 ](./Class-Read/Class02-read.md)
+    - [Class read 03](./Class-Read/Class03-read.md)
+    - [Class Read 04](./Class-Read/Class04-read.md)
+    - [Class Read 05](./Class-Read/Class05-read.md)
+    - [Class Read 06](./Class-Read/Class06-read.md)
 
 
 ### SQL And DataBase 
 
-- [database and sql](sqlpractice.md)
+- [database and sql](./PreWork/sqlpractice.md)
 
 ### Data Structures and Algorithms
  
-- [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md)
+- [Data Structures and Algorithms](./PreWork/Data%20Structures%20and%20Algorithms.md)
 
 
 ### practice in terminal
 
-- [Practice in terminal](./Practice-in-terminal.md)
+- [Practice in terminal](./PreWork/Practice-in-terminal.md)
 
 ### Engineer Reading
 
-- [Engineer Reading](./Engineering%20Readings.md)
+- [Engineer Reading](./PreWork/Engineering%20Readings.md)
 
 ### Growth mindset
 
-- [Growth mindset](./Growthmindset.md)
+- [Growth mindset](./PreWork/Growthmindset.md)
 
 ### Unit testing
 
-- [Unit Testing and Readme](Class02-read.md)
+- [Unit Testing and Readme](./Class-Read/Class02-read.md)
 
 ## Things I want to know more about
