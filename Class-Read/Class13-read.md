@@ -22,4 +22,5 @@
     - Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules. Both should depend on abstractions. This principle encourages the use of dependency injection to achieve loose coupling between classes.
 
 - ### Why SOLID Matters:
+
     SOLID principles are essential for writing maintainable, scalable, and extensible code. Following these principles leads to code that is easier to read, understand, and modify. This becomes especially important in larger projects where multiple developers may be working together. SOLID principles promote code reuse, reduce the likelihood of introducing bugs when making changes, and allow for easier unit testing, making it crucial for writing high-quality software.
