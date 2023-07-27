@@ -1,4 +1,4 @@
-# Class read 14 routing 
+# Navigation Properties and Routing
 
 - ## Routing within MVC:
     - MVC (Model-View-Controller) is a popular architectural pattern used in software development to separate the concerns of an application into three distinct components: Model, View, and Controller. In the context of routing within MVC, the focus is on how incoming requests from users are handled and directed to the appropriate controller.
