@@ -51,6 +51,12 @@
     - [Class Read 28](./Class-Read/Class28-read.md)
 
     - [Class Read 29](./Class-Read/Class29-read.md)
+
+    - [Class Read 29](./Class-Read/Class29-read.md)
+
+    - [Hash Tables Class  Read 30 ](./HashTables/README.md)
+
+    - [Class Read 31](./Class-Read/Class31-read.md)
     
 ### SQL And DataBase 
 
