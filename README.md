@@ -59,6 +59,10 @@
     - [Class Read 31](./Class-Read/Class31-read.md)
 
     - [Class Read 32](./Class-Read/Class32-read.md)
+
+    - [Class Read 33](./Class-Read/Class33-read.md)
+
+    - [Class Read 34](./Class-Read/Class34-read.md)
     
 ### SQL And DataBase 
 
