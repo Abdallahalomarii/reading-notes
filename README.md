@@ -68,6 +68,10 @@
 
     - [Class Read 35 JAM Stack ](./Class-Read/Class35-read.md)
 
+    - [Class Read 38 React](./Class-Read/Class38-read.md)
+
+    - [Class Read 39 React 2 ](./Class-Read/Class39-read.md)
+
     
 ### SQL And DataBase 
 
